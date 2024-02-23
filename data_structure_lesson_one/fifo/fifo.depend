@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1708082683 source:c:\users\esraa\desktop\fifo\main.c
+	"fofo.h"
+
+1708046428 c:\users\esraa\desktop\fifo\fofo.h
+	"stdint.h"
+	"stdio.h"
+
+1708082504 source:c:\users\esraa\desktop\fifo\fifo.c
+	"fofo.h"
+

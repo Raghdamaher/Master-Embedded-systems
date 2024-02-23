@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1708639399 source:c:\users\esraa\desktop\student_list\main.c
+	"student_list.h"
+
+1708639399 c:\users\esraa\desktop\student_list\student_list.h
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+	<string.h>
+	<conio.h>
+
+1708639399 source:c:\users\esraa\desktop\student_list\student_list.c
+	"student_list.h"
+

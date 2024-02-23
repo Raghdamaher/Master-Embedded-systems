@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1707956632 source:c:\users\esraa\desktop\lifo\lifo.c
+	"lifo.h"
+
+1707956634 c:\users\esraa\desktop\lifo\lifo.h
+	"stdio.h"
+	"stdlib.h"
+
+1707956846 source:c:\users\esraa\desktop\lifo\main.c
+	"lifo.h"
+
